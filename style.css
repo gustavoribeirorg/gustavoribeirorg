@@ -1,0 +1,56 @@
+html{
+	font-size: 16px;
+}
+
+body{
+	margin: 40px auto;
+	max-width: 650px;
+	line-height: 1.6;
+	font-size: 1rem;
+	font-family: verdana, sans-serif;
+	color: #EDEDED;
+	padding: 0;
+	background-color: #444;
+}
+
+img{
+  height: auto;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+	body{
+		font-size: 1.5rem;
+	}
+}
+
+@media (max-width: 480px) {
+	body{
+		font-size: 2.5rem;
+	}
+}
+
+a:link{
+	color: #EDEDED;
+	text-decoration: underline;
+	text-decoration-color: #ff0000;
+}
+
+a:visited{
+	color: #EDEDED;
+	text-decoration: underline;
+	text-decoration-color: #ff0000;
+}
+
+a:hover{
+	background-color: #ff0000;
+	color: #EDEDED
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}

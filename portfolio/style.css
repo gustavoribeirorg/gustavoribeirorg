@@ -1,0 +1,639 @@
+/* ===== RESET E BASE ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+/* ===== HEADER ===== */
+.header {
+  margin: 0;
+  background: #f0f0f0;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.header h1 {
+  font-family: "Gudea", sans-serif;
+  font-size: 5rem;
+  text-align: center;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.header .sub {
+  margin-top: 1rem;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* ===== BOTÕES ===== */
+.button-container {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  gap: 10px;
+  margin-top: 2rem;
+}
+
+.btn {
+  border: 1px solid #222;
+  padding: 10px 20px;
+  border-radius: 12px;
+  font-size: 1rem;
+  text-decoration: none;
+  color: #222;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background: #ddd;
+}
+
+.year {
+  padding: 10px 20px;
+  border: 1px solid #222;
+  border-radius: 12px;
+}
+
+/* ===== LINHAS DECORATIVAS ===== */
+.lines {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  pointer-events: none;
+}
+
+.line-orange {
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 150px;
+  height: 3px;
+  background: linear-gradient(to right, #d35400, #f39c12);
+  border-radius: 2px;
+}
+
+.line-purple {
+  position: absolute;
+  top: 50px;
+  right: 100px;
+  width: 200px;
+  height: 3px;
+  background: #8e44ad;
+  border-radius: 2px;
+}
+
+.line-green {
+  position: absolute;
+  bottom: 100px;
+  right: 0;
+  width: 150px;
+  height: 3px;
+  background: #27ae60;
+  border-radius: 2px;
+}
+
+/* ===== SEÇÃO SOBRE E PARCEIROS ===== */
+.sobre-parceiros {
+  font-family: "Open Sans", sans-serif;
+  min-height: 100vh;
+  background-color: #1a1a1a;
+  color: #d1d1d1;
+  margin-top: 0;
+  position: relative;
+  z-index: 1;
+}
+
+.sobre {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 100px;
+  line-height: 1.6;
+  gap: 60px;
+}
+
+.sobre .left {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 0;
+}
+
+.sobre .left img {
+  width: 35%;
+  height: auto;
+  object-fit: contain;
+  margin: 0;
+}
+
+.sobre .services {
+  margin-top: 20px;
+  font-size: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.sobre .services li {
+  text-align: left;
+  list-style: none;
+}
+
+.sobre .divider {
+  width: 1px;
+  background-color: #444;
+  height: 450px;
+}
+
+.sobre .right {
+  flex: 1;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.sobre .bio {
+  font-size: 16px;
+  max-width: 500px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  line-height: 1.6;
+}
+
+/* ===== PARCEIROS ===== */
+.parceiros {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 20px;
+  background-color: #1a1a1a;
+  color: #d1d1d1;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.parceiros p {
+  font-size: 1.5rem;
+  margin-bottom: 40px;
+}
+
+.logos {
+  margin-top: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.logos img {
+  height: 100px;
+  max-width: 150px;
+  object-fit: contain;
+  background-color: #777777;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== SERVIÇOS ===== */
+.servicos {
+  min-height: 100vh;
+  background-color: #f0f0f0;
+  color: #222;
+  font-family: "Open Sans", sans-serif;
+  padding: 60px 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 2;
+}
+
+.servicos h2 {
+  font-size: 2rem;
+  margin-bottom: 60px;
+}
+
+.colunas {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  flex-wrap: wrap;
+}
+
+.coluna {
+  flex: 1;
+  max-width: 300px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.coluna h3 {
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.coluna p {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* ===== BOTÕES SVG ===== */
+.svg-button {
+  margin-top: 60px;
+  background: none;
+  border: 2px solid #d1d1d1;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+  color: #d1d1d1;
+  transition:
+    transform 0.3s ease,
+    background-color 0.3s ease;
+  display: inline-block;
+  align-self: center;
+}
+
+.svg-button:hover {
+  transform: scale(1.1);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.svg-button-2 {
+  margin-top: 60px;
+  background: none;
+  border: 2px solid #1a1a1a;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+  color: #1a1a1a;
+  transition:
+    transform 0.3s ease,
+    background-color 0.3s ease;
+  display: inline-block;
+  align-self: center;
+}
+
+.svg-button-2:hover {
+  transform: scale(1.1);
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* ===== TRABALHOS ===== */
+.trabalhos {
+  background-color: #1a1a1a;
+  color: #d1d1d1;
+  padding: 80px 20px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  position: relative;
+  z-index: 3;
+}
+
+.trabalhos h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+.trabalhos-galeria {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.trabalho {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+}
+
+.trabalho img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 12px;
+  box-shadow: inset 0 0 0 4px white;
+}
+
+.revistas {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.trabalho-revistas {
+  position: relative;
+  width: 496px;
+  height: 701.6px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+}
+
+.trabalho-revistas img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 12px;
+  box-shadow: inset 0 0 0 4px white;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.trabalho-revistas img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.apresentacoes {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+
+.apresentacao {
+  position: relative;
+  width: 640px;
+  height: 360px;
+  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+}
+
+.apresentacao img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 12px;
+  box-shadow: inset 0 0 0 4px white;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.apresentacao img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* ===== MEDIA QUERIES PARA MOBILE ===== */
+@media (max-width: 768px) {
+  /* Garantir que todas as seções tenham comportamento correto no mobile */
+  .sobre-parceiros,
+  .servicos,
+  .trabalhos {
+    position: relative;
+    margin-bottom: 0;
+    overflow: hidden; /* Prevenir vazamentos */
+    padding: 60px 30px; /* Mais espaço nas bordas */
+  }
+
+  /* ===== SEÇÃO SOBRE - EMPILHAR VERTICALMENTE ===== */
+  .sobre {
+    flex-direction: column; /* Empilhar verticalmente */
+    gap: 40px;
+    padding: 50px 0; /* Mais espaço vertical interno */
+    align-items: center; /* Centralizar elementos */
+  }
+
+  .sobre .left,
+  .sobre .right {
+    flex: none;
+    width: 100%;
+    padding: 0;
+  }
+
+  .sobre .left {
+    justify-content: center;
+    order: 1; /* Imagem primeiro */
+  }
+
+  .sobre .left img {
+    width: 70%;
+    max-width: 250px;
+  }
+
+  .sobre .right {
+    order: 2; /* Texto depois */
+    text-align: center; /* Centralizar texto no mobile */
+  }
+
+  .sobre .bio {
+    max-width: 100%;
+    text-align: left;
+    padding: 0 20px; /* Espaço interno adicional */
+  }
+
+  .sobre .services {
+    justify-content: center; /* Centralizar lista de serviços */
+  }
+
+  .sobre .divider {
+    display: none; /* Remover divisor vertical */
+  }
+
+  /* ===== SEÇÃO PARCEIROS - EMPILHAR LOGOS ===== */
+  .parceiros {
+    padding: 60px 30px; /* Mais espaço nas bordas */
+  }
+
+  .logos {
+    flex-direction: column; /* Empilhar logos verticalmente */
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+  }
+
+  .logos img {
+    height: 80px;
+    max-width: 200px;
+    width: 100%;
+  }
+
+  /* ===== SEÇÃO SERVIÇOS - EMPILHAR COLUNAS ===== */
+  .servicos {
+    padding: 60px 30px; /* Mais espaço nas bordas */
+  }
+
+  .servicos h2 {
+    font-size: 1.8rem;
+    margin-bottom: 40px;
+  }
+
+  .colunas {
+    flex-direction: column; /* Empilhar colunas verticalmente */
+    gap: 30px;
+    align-items: center;
+  }
+
+  .coluna {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 20px; /* Espaço adicional nas laterais */
+  }
+
+  /* ===== SEÇÃO TRABALHOS - EMPILHAR GALERIA ===== */
+  .trabalhos {
+    padding: 60px 30px; /* Mais espaço nas bordas */
+  }
+
+  .trabalhos h2 {
+    font-size: 1.8rem;
+    margin-bottom: 30px;
+  }
+
+  .trabalhos-galeria {
+    flex-direction: column; /* Empilhar trabalhos verticalmente */
+    align-items: center;
+    gap: 30px;
+  }
+
+  .trabalho {
+    width: 100%;
+    max-width: 350px;
+    height: 250px;
+  }
+
+  /* ===== BOTÕES - EMPILHAR VERTICALMENTE ===== */
+  .button-container {
+    flex-direction: column; /* Empilhar botões verticalmente */
+    align-items: center; /* Centralizar botões */
+    gap: 15px;
+    margin-top: 2rem;
+    margin-bottom: 3rem; /* Espaçamento embaixo do menu */
+    width: 100%;
+  }
+
+  .btn,
+  .year {
+    width: 100%; /* Botões ocupam largura total */
+    max-width: 280px; /* Limite máximo maior para acomodar texto */
+    text-align: center;
+    padding: 15px 20px; /* Mais padding vertical */
+    box-sizing: border-box; /* Incluir padding no cálculo da largura */
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.4; /* Melhor espaçamento entre linhas */
+  }
+
+  /* ===== HEADER - AJUSTES PARA MOBILE ===== */
+  .header {
+    padding: 40px 30px; /* Espaçamento nas bordas */
+    text-align: center;
+  }
+
+  .header h1 {
+    font-size: 3rem; /* Tamanho menor no mobile */
+    line-height: 1.1;
+    margin: 0 20px; /* Margem lateral para não colar nas bordas */
+  }
+
+  .header .sub {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    padding: 0 20px; /* Espaçamento lateral */
+    line-height: 1.4;
+  }
+}
+
+/* ===== MEDIA QUERY PARA TELAS MUITO PEQUENAS ===== */
+@media (max-width: 480px) {
+  .sobre-parceiros,
+  .servicos,
+  .trabalhos {
+    padding: 40px 20px; /* Manter espaço mesmo em telas pequenas */
+  }
+
+  .sobre {
+    gap: 30px;
+    padding: 40px 0;
+  }
+
+  .sobre .left img {
+    width: 80%;
+    max-width: 200px;
+  }
+
+  .sobre .bio {
+    padding: 0 10px; /* Menos padding em telas muito pequenas */
+  }
+
+  .servicos h2,
+  .trabalhos h2 {
+    font-size: 1.6rem;
+  }
+
+  .parceiros {
+    padding: 40px 20px;
+  }
+
+  .parceiros p {
+    font-size: 1.3rem;
+  }
+
+  .coluna {
+    margin: 0 10px; /* Menos margem em telas muito pequenas */
+  }
+
+  .trabalho {
+    height: 200px;
+    max-width: 300px;
+  }
+
+  /* ===== BOTÕES EM TELAS MUITO PEQUENAS ===== */
+  .button-container {
+    gap: 12px;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem; /* Espaçamento menor mas ainda presente */
+  }
+
+  .btn,
+  .year {
+    max-width: 260px; /* Largura maior para telas pequenas também */
+    padding: 12px 15px;
+    font-size: 0.9rem;
+    line-height: 1.3;
+  }
+
+  /* ===== HEADER EM TELAS MUITO PEQUENAS ===== */
+  .header {
+    padding: 30px 20px;
+  }
+
+  .header h1 {
+    font-size: 2.5rem;
+    margin: 0 15px;
+  }
+
+  .header .sub {
+    font-size: 0.9rem;
+    padding: 0 15px;
+    margin-top: 1.2rem;
+  }
+}

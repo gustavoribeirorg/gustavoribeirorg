@@ -1,13 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gustavo Ribeiro - Blog</title>
-      <link>https://https://gustavoribeiro.net/blog/</link>
-      <description>Blog pessoal de Gustavo Ribeiro com artigos sobre cultura, política, skate e experiências pessoais</description>
-      <language>pt-br</language>
-      <lastBuildDate>Fri, 28 Mar 2025 00:00:00 -0300</lastBuildDate>
+    <title>GustavoRibeiro.net</title>
+    <link>https://gustavoribeiro.net/blog/</link>
+    <description>Blog pessoal de Gustavo Ribeiro com artigos sobre cultura, política, skate e experiências pessoais</description>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 17 Jun 2025 16:51:26 -0300</lastBuildDate>
     <atom:link href="https://gustavoribeiro.net/blog/rss.xml" rel="self" type="application/rss+xml"/>
-    
+
+    <item>
+      <title>A astronauta de Taubaté e a mídia do Boimate</title>
+      <link>https://gustavoribeiro.net/blog/astronauta-taubate-midia-boimate.html</link>
+      <description>Nos ultimos dias, descobrimos que a primeira mulher brasileira a ir
+          para o espaço vai ficar por aqui mesmo, na Terra. Eu só a conheci
+          quando fiquei sabendo da sua "não ida" aos confins do universo, mas
+          ela ja vinha fazendo fama pela internet tupiniquim.</description>
+      <pubDate>Tue, 17 Jun 2025 16:51:26 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/astronauta-taubate-midia-boimate.html</guid>
+    </item>
+
+    <item>
+      <title>Cidade dos mortos</title>
+      <link>https://gustavoribeiro.net/blog/cidade-mortos.html</link>
+      <description>No último domingo, participei de um passeio inusitado. O grupo Cidade
+          dos Mortos organizou uma visitação ao Cemitério da Saudade, aqui em
+          Ribeirão Preto, e eu, curioso que sou, não podia perder a
+          oportunidade.</description>
+      <pubDate>Wed, 28 May 2025 11:14:07 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/cidade-mortos.html</guid>
+    </item>
+
+    <item>
+      <title>Lista de frases, jargões e trocadilhos para usar no bingo</title>
+      <link>https://gustavoribeiro.net/blog/trocadilhos-bingo.html</link>
+      <description>Começou o período de quermesses aqui na minha cidade. No último
+          domingo, fui em uma aqui perto de casa, na igreja local. Não tinha
+          muita comida típica, mas as disponíveis estavam muito boas. Minha
+          tática para poder aproveitar melhor os pratos foi dividí-los com minha
+          mãe e minha namorada. Assim, comi bastante e não fiquei empanturrado.</description>
+      <pubDate>Mon, 26 May 2025 17:14:07 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/trocadilhos-bingo.html</guid>
+    </item>
+
+    <item>
+      <title>Primeiro contato</title>
+      <link>https://gustavoribeiro.net/blog/primeiro-contato.html</link>
+      <description>Terminei hoje a primeira temporada do podcast Primeiro Contato, que conta a história dos videogames no Brasil. Apesar de tratar de uma época em que eu não existia, o programa me trouxe muitas lembranças do meu primeiro contato com computadores.</description>
+      <pubDate>Thu, 22 May 2025 11:55:07 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/primeiro-contato.html</guid>
+    </item>
+
+    <item>
+      <title>Fui ao rodeio</title>
+      <link>https://gustavoribeiro.net/blog/fui-rodeio.html</link>
+      <description>Moro aqui na cidade que é considerada a "capital do agronegócio". Nunca entendi porque, mas tem bastante propaganda sobre isso por aqui. Nessa semana, começou o Ribeirao Rodeo Music e amanhã se inicia a Agrishow.</description>
+      <pubDate>Sun, 27 Apr 2025 19:34:50 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/fui-rodeio.html</guid>
+    </item>
+    <item>
+      <title>O capitalismo tardio em Black Mirror</title>
+      <link>https://gustavoribeiro.net/blog/black-mirror-capitalismo-tardio.html</link>
+      <description>Comecei a assistir a ultima temporada de Black Mirror nessa semana. Achei os dois primeiros episódios horríveis. Roteiro fraco, previsível e fiquei com a sensação de que parecia uma sátira sobre a própria série, bem no estilo Zorra Total.</description>
+      <pubDate>Sun, 20 Apr 2025 12:22:58 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/black-mirror-capitalismo-tardio.html</guid>
+    </item>
+    <item>
+      <title>Dia do CSS pelado</title>
+      <link>https://gustavoribeiro.net/blog/css-naked-day.html</link>
+      <description>A ideia por trás do CSS Naked Day é promover os padrões da rede. Somente. Isso inclui o uso correto do HTML, marcação semântica e uma boa estrutura hierárquica e, claro, uma brincadeira com palavras. Como foi dito em 2006, hoje é dia de mostrar o seu &lt;body&gt; do jeito que ele é!</description>
+      <pubDate>Wed, 09 Apr 2025 11:08:42 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/css-naked-day.html</guid>
+    </item>
     <item>
       <title>Extrativismo digital</title>
       <link>https://gustavoribeiro.net/blog/extrativistmo-digital.html</link>
@@ -15,15 +79,13 @@
       <pubDate>Tue, 01 Apr 2025 12:50:42 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/extrativistmo-digital.html</guid>
     </item>
-    
-      <item>
+    <item>
       <title>My theory for season three of Apple TV's Severance</title>
       <link>https://gustavoribeiro.net/blog/severance-season-three.html</link>
       <description>James Eagan will try to adopt Helly R. Gemma and Devon will try to save Mark Scout. Reintegration will be a central point. Irving will be back.</description>
       <pubDate>Sat, 22 Mar 2025 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/severance-season-three.html</guid>
     </item>
-    
     <item>
       <title>Ser desempregado</title>
       <link>https://gustavoribeiro.net/blog/ser-desempregado.html</link>
@@ -31,7 +93,6 @@
       <pubDate>Sat, 22 Mar 2025 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/ser-desempregado.html</guid>
     </item>
-    
     <item>
       <title>Seja improvável</title>
       <link>https://gustavoribeiro.net/blog/seja-improvavel.html</link>
@@ -39,7 +100,6 @@
       <pubDate>Thu, 03 Oct 2024 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/seja-improvavel.html</guid>
     </item>
-    
     <item>
       <title>I finally bought my own apartment</title>
       <link>https://gustavoribeiro.net/blog/bought-my-apartment.html</link>
@@ -47,118 +107,103 @@
       <pubDate>Sun, 28 May 2023 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/bought-my-apartment.html</guid>
     </item>
-    
     <item>
       <title>I don't care about the Metaverse</title>
       <link>https://gustavoribeiro.net/blog/metaverse.html</link>
       <description>The first time I heard about metaverse was when Facebook announced the group name change to Meta. As I work with marketing and our main product dissemination platform are from Facebook, this has generated a certain frenzy in our industry. Over the days, we realized that change would not affect our work, but would have profound consequences for digital culture.</description>
       <pubDate>Wed, 07 Sep 2022 00:00:00 -0300</pubDate>
       <guid isPermaLink="true">https://gustavoribeiro.net/blog/metaverse.html</guid>
-</item>
-
-<item>
+    </item>
+    <item>
       <title>Iron Maiden Concert at Ribeirão Preto</title>
       <link>https://gustavoribeiro.net/blog/iron-maiden-ribeirao-preto.html</link>
-  <description>I’m not a fan of heavy metal and the musical genre figures very little in my playlists, but Iron Maiden is a band I always hear at one time or another. I know the classics and I can sing some choruses. I heard my brother and an old neighbor listen to “Fear of The Dark” and “The Number of the Beast” incessantly that that I have decorated.</description>
-  <pubDate>Thu, 01 Sep 2022 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/iron-maiden-ribeirao-preto.html</guid>
-</item>
-
-<item>
-  <title>Samping vinyl for the first time</title>
-  <link>https://gustavoribeiro.net/blog/sampling-vynil.html</link>
-  <description>Since I was a kid, I’ve been very much into rap, and I’ve always been involved in hip-hop culture in some way. I learned break steps, attended events, and consumed a lot of information on the subject. My brother was always connected with music and was part of several bands. When he bought the first computer, he also acquired an external sound card to record guitar solos and bass lines.</description>
-  <pubDate>Wed, 31 Aug 2022 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/sampling-vynil.html</guid>
-</item>
-
-<item>
-  <title>De Ribeirão Preto, Ruan Felipe crava o primeiro pódio do ParaSkate Tour</title>
-  <link>https://gustavoribeiro.net/blog/ruan-felipe-paraskate.html</link>
-  <description>Não me lembro exatamente a primeira vez que vi Ruan Felipe andando de skate, mas eu ficava fascinado todas as vezes que o assistia correndo nos campeonatos. Uma ida ao médico por conta de uma febre alta lhe custou as duas pernas depois de um erro médico.</description>
-  <pubDate>Sun, 31 Oct 2021 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/ruan-felipe-paraskate.html</guid>
-</item>
-    
-<item>
-  <title>Skate como ferramenta de cidadania na zona norte de Ribeirão Preto</title>
-  <link>https://gustavoribeiro.net/blog/skate-cidadania.html</link>
-  <description>Há seis anos, Lucas Alves leva cidadania através do skate para crianças da Zona Norte de Ribeirão Preto. Skatista desde 1994, sempre trabalhou com o board na cidade e, após uma grande trajetória, resolveu montar o projeto social.</description>
-  <pubDate>Sat, 28 Aug 2021 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/skate-cidadania.html</guid>
-</item>
-
-<item>
-  <title>Pioneiro, Rui Muleque ainda carrega a essência do skate</title>
-  <link>https://gustavoribeiro.net/blog/rui-muleque-skate.html</link>
-  <description>Encontrei com Rui Muleque na Switch Skate Park. O campeão brasileiro de 89, hoje, dá aulas de skate, mas as canelas machucadas revelam a experiência de um dos pioneiros do esporte no Brasil. "Eu cuido da pista e dou aulas particulares", começa Muleque.</description>
-  <pubDate>Fri, 20 Aug 2021 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/rui-muleque-skate.html</guid>
-</item>
-
-<item>
-  <title>Bank Skate Spot é a síntese do skate DIY</title>
-  <link>https://gustavoribeiro.net/blog/bss-skate-diy.html</link>
-  <description>Se a gente tivesse que escolher um símbolo para representar a cultura do skate DIY, Do It Yourself (Faça Você Mesmo), a Bank Skate Spot, BSS, estaria no topo entre as opções. Localizada no Jardim Manoel Penna, a pista começou a ser construída pelos próprios locais em 2018.</description>
-  <pubDate>Thu, 19 Aug 2021 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/bss-skate-diy.html</guid>
-</item>
-    
-<item>
-  <title>Registros de armas de fogo tem aumento expressivo em Ribeirão Preto</title>
-  <link>https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto.html</link>
-  <description>O registro de armas de fogo em 2020 em Ribeirão Preto aumentou 45% em relação ao ano de 2019. A aquisição das armas por cidadãos, ou seja, pessoas sem prerrogativas por função, representa mais metade desse aumento. Os dados são da Polícia Federal, obtidos através do portal da Transparência.</description>
-  <pubDate>Mon, 15 Feb 2021 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto.html</guid>
-</item>
-
-<item>
-  <title>Nogueira confunde eleitor e revive velhas promessas</title>
-  <link>https://gustavoribeiro.net/blog/nogueira-confunde-eleitor.html</link>
-  <description>Na reta final do segundo turno das eleições municipais de Ribeirão Preto, os candidatos têm participado ativamente de entrevistas e debates. Analisamos a sabatina da EPTV e CBN com o atual prefeito Duarte Nogueira e verificamos suas falas.</description>
-  <pubDate>Wed, 25 Nov 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/nogueira-confunde-eleitor.html</guid>
-</item>
-
-<item>
-  <title>Consumidor de energia ribeirãopretano paga pelo apagão no Amapá</title>
-  <link>https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa.html</link>
-  <description>Os custos associados a contratação de emergência de usinas termelétricas para repor a luz no Amapá serão cobertos por meio do Encargo de Serviços do Sistema, ESS, e estarão embutidos na conta de luz dos consumidores.</description>
-  <pubDate>Mon, 16 Nov 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa.html</guid>
-</item>
-    
-<item>
-  <title>Campanha milionária de Nogueira recebe doações de grandes empresários da construção civil</title>
-  <link>https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios.html</link>
-  <description>O atual prefeito de Ribeirão Preto e candidato a reeleição, Duarte Nogueira (PSDB), recebeu uma doação de campanha no valor de R$160 mil do fundador do Grupo Multiplan, José Isaac Peres. O grupo administra o Shopping Ribeirão Preto na cidade. Os dados são do Tribunal Superior Eleitoral.</description>
-  <pubDate>Mon, 26 Oct 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios.html</guid>
-</item>
-
-<item>
-  <title>Candidatos negros ainda são minoria nas eleições municipais de Ribeirão Preto</title>
-  <link>https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes.html</link>
-  <description>Dos 623 candidatos que concorrem as eleições municipais de Ribeirão Preto, somente 64 se autodeclararam pretos no registro de candidatura. Os dados são do Tribunal Superior Eleitoral. Um número 9,3 por cento menor em comparação ao pleito de 2016.</description>
-  <pubDate>Thu, 01 Oct 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes.html</guid>
-</item>
-
-<item>
-  <title>Empresa condenada por corrupção e acusada de trabalho escravo faz contrato com DAERP</title>
-  <link>https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp.html</link>
-  <description>Em uma concorrência pública, a OAS Engenharia e Construção SA fechou um contrato milionário com o Departamento de Água e Esgoto de Ribeirão Preto (DAERP) para a implantação de setores de abastecimento de água potável na cidade.</description>
-  <pubDate>Mon, 21 Sep 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp.html</guid>
-</item>
-    
-<item>
-  <title>Casos de violência doméstica aumentam durante a quarentena em Ribeirão Preto</title>
-  <link>https://gustavoribeiro.net/blog/violencia-domestica-quarentena.html</link>
-  <description>Em março, no inicio da quarentena, o atendimento da Polícia Militar a vítimas de violência doméstica aumentaram 49,9% no Estado de São Paulo, segundo o relatório divulgado pelo Fórum Brasileiro de Segurança Pública, FBSP.</description>
-  <pubDate>Mon, 21 Sep 2020 00:00:00 -0300</pubDate>
-  <guid isPermaLink="true">https://gustavoribeiro.net/blog/violencia-domestica-quarentena.html</guid>
-</item>
-    
+      <description>I'm not a fan of heavy metal and the musical genre figures very little in my playlists, but Iron Maiden is a band I always hear at one time or another. I know the classics and I can sing some choruses. I heard my brother and an old neighbor listen to "Fear of The Dark" and "The Number of the Beast" incessantly that that I have decorated.</description>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/iron-maiden-ribeirao-preto.html</guid>
+    </item>
+    <item>
+      <title>Samping vinyl for the first time</title>
+      <link>https://gustavoribeiro.net/blog/sampling-vynil.html</link>
+      <description>Since I was a kid, I've been very much into rap, and I've always been involved in hip-hop culture in some way. I learned break steps, attended events, and consumed a lot of information on the subject. My brother was always connected with music and was part of several bands. When he bought the first computer, he also acquired an external sound card to record guitar solos and bass lines.</description>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/sampling-vynil.html</guid>
+    </item>
+    <item>
+      <title>De Ribeirão Preto, Ruan Felipe crava o primeiro pódio do ParaSkate Tour</title>
+      <link>https://gustavoribeiro.net/blog/ruan-felipe-paraskate.html</link>
+      <description>Não me lembro exatamente a primeira vez que vi Ruan Felipe andando de skate, mas eu ficava fascinado todas as vezes que o assistia correndo nos campeonatos. Uma ida ao médico por conta de uma febre alta lhe custou as duas pernas depois de um erro médico.</description>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/ruan-felipe-paraskate.html</guid>
+    </item>
+    <item>
+      <title>Skate como ferramenta de cidadania na zona norte de Ribeirão Preto</title>
+      <link>https://gustavoribeiro.net/blog/skate-cidadania.html</link>
+      <description>Há seis anos, Lucas Alves leva cidadania através do skate para crianças da Zona Norte de Ribeirão Preto. Skatista desde 1994, sempre trabalhou com o board na cidade e, após uma grande trajetória, resolveu montar o projeto social.</description>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/skate-cidadania.html</guid>
+    </item>
+    <item>
+      <title>Pioneiro, Rui Muleque ainda carrega a essência do skate</title>
+      <link>https://gustavoribeiro.net/blog/rui-muleque-skate.html</link>
+      <description>Encontrei com Rui Muleque na Switch Skate Park. O campeão brasileiro de 89, hoje, dá aulas de skate, mas as canelas machucadas revelam a experiência de um dos pioneiros do esporte no Brasil. "Eu cuido da pista e dou aulas particulares", começa Muleque.</description>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/rui-muleque-skate.html</guid>
+    </item>
+    <item>
+      <title>Bank Skate Spot é a síntese do skate DIY</title>
+      <link>https://gustavoribeiro.net/blog/bss-skate-diy.html</link>
+      <description>Se a gente tivesse que escolher um símbolo para representar a cultura do skate DIY, Do It Yourself (Faça Você Mesmo), a Bank Skate Spot, BSS, estaria no topo entre as opções. Localizada no Jardim Manoel Penna, a pista começou a ser construída pelos próprios locais em 2018.</description>
+      <pubDate>Thu, 19 Aug 2021 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/bss-skate-diy.html</guid>
+    </item>
+    <item>
+      <title>Registros de armas de fogo tem aumento expressivo em Ribeirão Preto</title>
+      <link>https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto.html</link>
+      <description>O registro de armas de fogo em 2020 em Ribeirão Preto aumentou 45% em relação ao ano de 2019. A aquisição das armas por cidadãos, ou seja, pessoas sem prerrogativas por função, representa mais metade desse aumento. Os dados são da Polícia Federal, obtidos através do portal da Transparência.</description>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto.html</guid>
+    </item>
+    <item>
+      <title>Nogueira confunde eleitor e revive velhas promessas</title>
+      <link>https://gustavoribeiro.net/blog/nogueira-confunde-eleitor.html</link>
+      <description>Na reta final do segundo turno das eleições municipais de Ribeirão Preto, os candidatos têm participado ativamente de entrevistas e debates. Analisamos a sabatina da EPTV e CBN com o atual prefeito Duarte Nogueira e verificamos suas falas.</description>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/nogueira-confunde-eleitor.html</guid>
+    </item>
+    <item>
+      <title>Consumidor de energia ribeirãopretano paga pelo apagão no Amapá</title>
+      <link>https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa.html</link>
+      <description>Os custos associados a contratação de emergência de usinas termelétricas para repor a luz no Amapá serão cobertos por meio do Encargo de Serviços do Sistema, ESS, e estarão embutidos na conta de luz dos consumidores.</description>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa.html</guid>
+    </item>
+    <item>
+      <title>Campanha milionária de Nogueira recebe doações de grandes empresários da construção civil</title>
+      <link>https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios.html</link>
+      <description>O atual prefeito de Ribeirão Preto e candidato a reeleição, Duarte Nogueira (PSDB), recebeu uma doação de campanha no valor de R$160 mil do fundador do Grupo Multiplan, José Isaac Peres. O grupo administra o Shopping Ribeirão Preto na cidade. Os dados são do Tribunal Superior Eleitoral.</description>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios.html</guid>
+    </item>
+    <item>
+      <title>Candidatos negros ainda são minoria nas eleições municipais de Ribeirão Preto</title>
+      <link>https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes.html</link>
+      <description>Dos 623 candidatos que concorrem as eleições municipais de Ribeirão Preto, somente 64 se autodeclararam pretos no registro de candidatura. Os dados são do Tribunal Superior Eleitoral. Um número 9,3 por cento menor em comparação ao pleito de 2016.</description>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes.html</guid>
+    </item>
+    <item>
+      <title>Empresa condenada por corrupção e acusada de trabalho escravo faz contrato com DAERP</title>
+      <link>https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp.html</link>
+      <description>Em uma concorrência pública, a OAS Engenharia e Construção SA fechou um contrato milionário com o Departamento de Água e Esgoto de Ribeirão Preto (DAERP) para a implantação de setores de abastecimento de água potável na cidade.</description>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp.html</guid>
+    </item>
+    <item>
+      <title>Casos de violência doméstica aumentam durante a quarentena em Ribeirão Preto</title>
+      <link>https://gustavoribeiro.net/blog/violencia-domestica-quarentena.html</link>
+      <description>Em março, no inicio da quarentena, o atendimento da Polícia Militar a vítimas de violência doméstica aumentaram 49,9% no Estado de São Paulo, segundo o relatório divulgado pelo Fórum Brasileiro de Segurança Pública, FBSP.</description>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/violencia-domestica-quarentena.html</guid>
+    </item>
   </channel>
 </rss>

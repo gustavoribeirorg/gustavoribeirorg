@@ -6,8 +6,19 @@
     <link>https://gustavoribeiro.net/blog/</link>
     <description>Blog pessoal de Gustavo Ribeiro com artigos sobre cultura, política, skate e experiências pessoais</description>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 17 Jun 2025 16:51:26 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 16:49:25 -0300</lastBuildDate>
     <atom:link href="https://gustavoribeiro.net/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+      <title>Minha experiência com o Morango do Amor</title>
+      <link>https://gustavoribeiro.net/blog/morango-amor.html</link>
+      <description>Nessa semana, minha mãe perguntou se minha namorada sabia fazer
+          Morango do Amor. Minha companheira, apesar de nunca ter produzido o
+          quitute, já havia sido impactada pelos inúmeros conteúdos sobre o doce
+          disse que, sim, era capaz de produzi-lo.</description>
+      <pubDate>Fri, 25 Jul 2025 16:49:25 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/morango-amor.html</guid>
+    </item>
 
     <item>
       <title>A astronauta de Taubaté e a mídia do Boimate</title>

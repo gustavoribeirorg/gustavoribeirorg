@@ -6,10 +6,24 @@
     <link>https://gustavoribeiro.net/blog/</link>
     <description>Blog pessoal de Gustavo Ribeiro com artigos sobre cultura, política, skate e experiências pessoais</description>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 25 Jul 2025 16:49:25 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 16:49:25 -0300</lastBuildDate>
     <atom:link href="https://gustavoribeiro.net/blog/rss.xml" rel="self" type="application/rss+xml"/>
 
-        <item>
+    <item>
+      <title>Folha de S. Paulo processa jornalista independente por
+      concorrência desleal</title>
+      <link>https://gustavoribeiro.net/blog/folha-processa-jornalista.html</link>
+      <description>No dia 25 de junho de 2025, o jornalista responsável pelo blog de
+          tecnologia Manual do Usuário, Rodrigo Ghedin, recebeu uma notificação
+          extrajudicial solicitando a retirada do Marreta do ar, ferramenta que
+          facilita a remoção de elementos que atrapalham a leitura de
+          determinados sites para pessoas que preferem navegar sem distrações.</description>
+      <pubDate>Tue, 26 Aug 2025 16:49:25 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/folha-processa-jornalista.html</guid>
+    </item>
+
+
+    <item>
       <title>Minha experiência com o Morango do Amor</title>
       <link>https://gustavoribeiro.net/blog/morango-amor.html</link>
       <description>Nessa semana, minha mãe perguntou se minha namorada sabia fazer

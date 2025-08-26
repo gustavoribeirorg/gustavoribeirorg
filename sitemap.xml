@@ -1,187 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <!-- Editado manualmente por mim -->
 
 
-<url>
-  <loc>https://gustavoribeiro.net/</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/notas/</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/poesias/</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/portfolio/</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/astronauta-taubate-midia-boimate</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/cidade-mortos</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/trocadilhos-bingo</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/primeiro-contato</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/fui-rodeio</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/black-mirror-capitalismo-tardio</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/css-naked-day</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/extrativistmo-digital</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/severance-season-three</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/ser-desempregado</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/seja-improvavel</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/bought-my-apartment</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/metaverse</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/iron-maiden-ribeirao-preto</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/sampling-vynil</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/ruan-felipe-paraskate</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/skate-cidadania</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/rui-muleque-skate</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/bss-skate-diy</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/nogueira-confunde-eleitor</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/blog/violencia-domestica-quarentena</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/portfolio/documentos/Ebook_Alinhadores_Book.pdf</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/portfolio/documentos/InformativoREDEORTO01.2022.pdf</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/portfolio/documentos/Relat%C3%B3rio-Campanha-TRIOS3.pdf</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://gustavoribeiro.net/portfolio/documentos/Planejamento-Arquidecore-12-Dezembro.pdf</loc>
-  <lastmod>2025-07-24T22:28:05+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+  <url>
+    <loc>https://gustavoribeiro.net/</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/folha-processa-jornalista.html</loc>
+    <lastmod>2025-08-26T19:31:32+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/notas/</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/poesias/</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/portfolio/</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/astronauta-taubate-midia-boimate</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/cidade-mortos</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/trocadilhos-bingo</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/primeiro-contato</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/fui-rodeio</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/black-mirror-capitalismo-tardio</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/css-naked-day</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/extrativistmo-digital</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/severance-season-three</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/ser-desempregado</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/seja-improvavel</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/bought-my-apartment</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/metaverse</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/iron-maiden-ribeirao-preto</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/sampling-vynil</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/ruan-felipe-paraskate</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/skate-cidadania</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/rui-muleque-skate</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/bss-skate-diy</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/registro-armas-aumento-ribeirao-preto</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/nogueira-confunde-eleitor</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/consumidor-apagao-ribeiraopretano-amapa</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/campanha-milionaria-nogueira-empresarios</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/candidatos-negros-minoria-eleicoes</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/empresa-condenada-corrupcao-daerp</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/blog/violencia-domestica-quarentena</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/portfolio/documentos/Ebook_Alinhadores_Book.pdf</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/portfolio/documentos/InformativoREDEORTO01.2022.pdf</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/portfolio/documentos/Relat%C3%B3rio-Campanha-TRIOS3.pdf</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://gustavoribeiro.net/portfolio/documentos/Planejamento-Arquidecore-12-Dezembro.pdf</loc>
+    <lastmod>2025-07-24T22:28:05+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 
 
 </urlset>

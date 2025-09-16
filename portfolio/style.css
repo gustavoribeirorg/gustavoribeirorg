@@ -301,49 +301,53 @@ body {
 
 /* ===== TRABALHOS ===== */
 .trabalhos {
-  background-color: #1a1a1a;
-  color: #d1d1d1;
-  padding: 80px 20px;
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-  position: relative;
-  z-index: 3;
+    background-color: #1a1a1a;
+    color: #d1d1d1;
+    padding: 80px 20px;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    position: relative;
+    z-index: 3;
 }
 
 .trabalhos h2 {
-  font-size: 2rem;
-  margin-bottom: 40px;
+    font-size: 2rem;
+    margin-bottom: 40px;
 }
 
 .trabalhos-galeria {
-  display: flex;
-  justify-content: center;
-  gap: 40px;
-  flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Adicionado para alinhar verticalmente */
+    gap: 40px;
+    flex-wrap: wrap;
 }
 
 .trabalho {
-  position: relative;
-  width: 500px;
-  height: 500px;
-  box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
+    position: relative;
+    width: 500px;
+    height: 500px;
+    box-shadow: 0 4px 12px rgba(255, 255, 255, 0.1);
 }
 
 .trabalho img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  border-radius: 12px;
-  box-shadow: inset 0 0 0 4px white;
-    transition:
-    transform 0.3s ease,
-    box-shadow 0.3s ease;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    border-radius: 12px;
+    box-shadow: inset 0 0 0 4px white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .trabalho img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.texto-campanha {
+    width: 500px;
+    text-align: left;
 }
 
 .apresentacoes {

@@ -6,8 +6,18 @@
     <link>https://gustavoribeiro.net/blog/</link>
     <description>Blog pessoal de Gustavo Ribeiro com artigos sobre cultura, política, skate e experiências pessoais</description>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 26 Aug 2025 16:49:25 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 11:39:25 -0300</lastBuildDate>
     <atom:link href="https://gustavoribeiro.net/blog/rss.xml" rel="self" type="application/rss+xml"/>
+
+        <item>
+      <title>Ser pedestre é ofensivo</title>
+      <link>https://gustavoribeiro.net/blog/pedestre.html</link>
+      <description>Eu ando muito a pé. Na verdade, passo mais tempo dentro do ônibus, mas
+          caminho entre meus destinos e os pontos de parada. Depois que comecei
+          a dirigir, passei a prestar mais atenção no trânsito.</description>
+      <pubDate>Wed, 22 Oct 2025 11:39:25 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/pedestre.html</guid>
+    </item>
 
     <item>
       <title>Folha de S. Paulo processa jornalista independente por

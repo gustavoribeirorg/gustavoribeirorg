@@ -9,7 +9,16 @@
     <lastBuildDate>Wed, 22 Oct 2025 11:39:25 -0300</lastBuildDate>
     <atom:link href="https://gustavoribeiro.net/blog/rss.xml" rel="self" type="application/rss+xml"/>
 
-        <item>
+    <item>
+      <title>Migrei o blog para o Github Pages</title>
+      <link>https://gustavoribeiro.net/blog/migracao.html</link>
+      <description>Já passei por algumas hospedagens e estava utilizando o Cloudflare
+          Pages até agora.</description>
+      <pubDate>Tue, 28 Oct 2025 14:22:25 -0300</pubDate>
+      <guid isPermaLink="true">https://gustavoribeiro.net/blog/pedestre.html</guid>
+    </item>
+
+    <item>
       <title>Ser pedestre é ofensivo</title>
       <link>https://gustavoribeiro.net/blog/pedestre.html</link>
       <description>Eu ando muito a pé. Na verdade, passo mais tempo dentro do ônibus, mas
